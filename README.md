@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soufi
 - 👀 I’m interested in automation, robotics and integration
-- 🌱 I’m currently learning kubernetes and go
-- 💞️ I’m looking to collaborate on terraform, kubernetes goodies, cool softwares 
+- 🌱 I'm currently maintaining the terraform provider for anypoint.
+- 💞️ I’m looking to collaborate on automation goodies.
 - 📫 How to reach me via discord souf#9756 
 
 <!---
