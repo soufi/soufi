@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soufi
+- 👋 Hi there
 - 👀 I’m interested in automation, robotics and integration
 - 🌱 I'm currently maintaining the terraform provider for anypoint.
 - 💞️ I’m looking to collaborate on automation goodies.
